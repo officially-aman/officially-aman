@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Sharma</h1>
 <h3 align="center">Building innovative and high-performance Android apps with modern, clean, and maintainable code.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=officially-aman&label=Profile%20views&color=0e75b6&style=flat" alt="officially-aman" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=officially-aman&label=Profile%20views&color=0e75b6&style=flat" alt="officially-aman" /> </p>
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/@dhoundiyal.bsky.social) 

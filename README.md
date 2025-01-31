@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Sharma</h1>
 <h3 align="center">Building innovative and high-performance Android apps with modern, clean, and maintainable code.</h3>
+<img align="right" alt="coding" width ="400" src="https://cdn.dribbble.com/users/2344027/screenshots/5568384/media/deb9cfe45e19500ab4817460b2a2db97.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officially-aman&label=Profile%20views&color=0e75b6&style=flat" alt="officially-aman" /> </p>
 
